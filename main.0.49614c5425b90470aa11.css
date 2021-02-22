@@ -1,0 +1,1 @@
+html{box-sizing:border-box;color:#0eb3e0;background-color:#131313;font-family:Jura,sans-serif}*,:after,:before{box-sizing:inherit}body{margin-top:50px;margin-left:50px}ul{list-style:none}.country-card{display:flex;flex-wrap:wrap;row-gap:10px;-webkit-column-gap:10px;column-gap:10px}.country-description{min-width:240px}
